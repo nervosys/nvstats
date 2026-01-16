@@ -1,3 +1,0 @@
-smbus2
-distro
-nvidia-ml-py
